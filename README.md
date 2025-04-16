@@ -23,6 +23,8 @@ Website PHP sederhana yang menampilkan daftar produk dengan fitur CRUD (Create, 
 │   └── fonts/
 ├── config/
 │   └── database.php
+├── docs/
+│   └── code_documentation.md
 ├── includes/
 │   ├── header.php
 │   ├── footer.php
@@ -64,6 +66,10 @@ Bottom bar dapat diakses dengan mengklik tombol pengaturan di pojok kanan bawah 
 - CSS3
 - JavaScript (Vanilla JS)
 - Font Awesome 6
+
+## Dokumentasi
+Dokumentasi terperinci tentang implementasi kode tersedia di folder `docs`:
+- [Dokumentasi Kode](docs/code_documentation.md) - Menjelaskan struktur kode, pernyataan require/include, fungsi, form, session, dan interaksi database.
 
 ## Lisensi
 MIT License 
